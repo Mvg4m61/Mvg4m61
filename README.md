@@ -22,9 +22,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/hiram-mugambi-4227611a4/" alt="Hiram's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/"><img width="32px" height="25px" alt="Medium" title="Hiram's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
+  <a href="https://medium.com/@hiramdtrix1"><img width="32px" height="25px" alt="Medium" title="Hiram's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
+  <a href="https://ko-fi.com/mug4mb1"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
 </p>
 
 
@@ -59,6 +59,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
+    <a href="https://github.com/Mug4mb1/pitch-coefficient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mug4mb1&repo=pitch-coefficient&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
 </p>
 
 <p align="center">
@@ -108,15 +109,3 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     </p align="left">
 </p align="center">
-
-<h2 align="center">
- 📺 YouTube videos
-</h2>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  <a href="https://www.youtube.com/channel/UCqJVRDx5vSJx-VKEwbHH5pg?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCqJVRDx5vSJx-VKEwbHH5pg?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
- <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  
- </h3>
