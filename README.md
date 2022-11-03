@@ -60,6 +60,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
     <a href="https://github.com/Mug4mb1/pitch-coefficient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mug4mb1&repo=pitch-coefficient&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
+  <a href="https://github.com/Mug4mb1/employees-wage-calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mug4mb1&repo=employees-wage-calculator&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
 </p>
 
 <p align="center">
