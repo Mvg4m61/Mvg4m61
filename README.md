@@ -37,12 +37,12 @@
   <a href="https://www.youtube.com/channel/UCqJVRDx5vSJx-VKEwbHH5pg">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCqJVRDx5vSJx-VKEwbHH5pg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/_r4mh1?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
-  <a href="https://github.com/Mug4mb1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Mug4mb1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Mug4mb1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Mug4mb1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://komarev.com/ghpvc/?username=Mug4mb1">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Mug4mb1&style=for-the-badge&color=grey"/></a>
+  <a href="https://github.com/Mvg4m61?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Mvg4m61?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Mvg4m61?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Mvg4m61?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://komarev.com/ghpvc/?username=Mvg4m61">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Mvg4m61&style=for-the-badge&color=grey"/></a>
 </p>
 
 
@@ -59,12 +59,12 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-    <a href="https://github.com/Mug4mb1/pitch-coefficient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mug4mb1&repo=pitch-coefficient&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
-  <a href="https://github.com/Mug4mb1/employees-wage-calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mug4mb1&repo=employees-wage-calculator&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
+    <a href="https://github.com/Mvg4m61/pitch-coefficient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mvg4m61&repo=pitch-coefficient&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
+  <a href="https://github.com/Mvg4m61/employees-wage-calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mvg4m61&repo=employees-wage-calculator&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pitch-coefficient"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mug4mb1?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Mvg4m61?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 
